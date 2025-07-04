@@ -1,0 +1,30 @@
+.container.content { 
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+h3 { 
+    text-align: center;
+    font-size: 2rem;
+}
+
+img {
+    display: block;
+    border-radius: 1rem;
+    margin: 2rem auto;
+    width: 100%;
+}
+
+.container.title { 
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+ol, ul {
+    margin-top: 2rem;
+}
+
+.back {
+    display: block;
+    margin-top: 2rem;
+}
